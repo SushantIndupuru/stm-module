@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "stm-module") (type "KiCad") (uri "${KIPRJMOD}/stm-module.pretty") (options "") (descr ""))
+	(lib (name "stm-module") (type "KiCad") (uri "${KIPRJMOD}/stm-module.pretty") (options "") (descr ""))
+)
